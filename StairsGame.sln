@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StairsGame", "StairsGame.csproj", "{7D8FA943-9707-64FD-B64B-38AA2DF16B38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StairsGame.Editor", "StairsGame.Editor.csproj", "{F152403C-9ADD-7E29-4B22-005C1D1E893C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D8FA943-9707-64FD-B64B-38AA2DF16B38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8FA943-9707-64FD-B64B-38AA2DF16B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D8FA943-9707-64FD-B64B-38AA2DF16B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D8FA943-9707-64FD-B64B-38AA2DF16B38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F152403C-9ADD-7E29-4B22-005C1D1E893C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F152403C-9ADD-7E29-4B22-005C1D1E893C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F152403C-9ADD-7E29-4B22-005C1D1E893C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F152403C-9ADD-7E29-4B22-005C1D1E893C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
